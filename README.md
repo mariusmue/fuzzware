@@ -175,6 +175,7 @@ In case you would like to cite Fuzzware, you may use the following BibTex entry:
 ```
 @inproceedings {277252,
 title = {Fuzzware: Using Precise {MMIO} Modeling for Effective Firmware Fuzzing},
+author={Scharnowski, Tobias and Bars, Nils and Schloegel, Moritz and Gustafson, Eric and Muench, Marius and Vigna, Giovanni and Kruegel, Christopher and Holz, Thorsten and Abbasi, Ali},
 booktitle = {31st USENIX Security Symposium (USENIX Security 22)},
 year = {2022},
 address = {Boston, MA},
